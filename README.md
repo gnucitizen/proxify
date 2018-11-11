@@ -1,6 +1,6 @@
 [![Follow on Twitter](https://img.shields.io/twitter/follow/gnucitizen.svg?logo=twitter)](https://twitter.com/gnucitizen)
 
-# Introduction
+# Proxify
 
 The idea behind Proxify is to create a proxy that is just good at doing proxying. It is the proxy of all proxies so-to-say. Proxify is lightweight, streamlined, concurrent and very efficient proxy utility that is easy to integrate into other tools. There is a good need for such tools because proxies are quite complex and not trivial to write even if you choose to use a high-level language such as Java, Python or Ruby.
 
